@@ -27,6 +27,7 @@ class PathReplace extends \Rain\Tpl\Plugin
 
 		// get the template base directory
 		$template_directory = $basecode . $context->conf['tpl_dir'] . $context->template_basedir;
+
 		// reduce the path
                 $path = str_replace( "://", "@not_replace@", $template_directory );
                 $path = preg_replace( "#(/+)#", "/", $path );
