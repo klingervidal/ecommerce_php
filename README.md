@@ -24,7 +24,7 @@
 
 - Import on "db_ecommerce" the tables from file "MODEL_DB_db_ecommerce.sql";
 
-### <br>Note: It was developed just to practice and study the PHP Language. The code write and all comments are in English language, just to practice the English lenguage and also because it's considerated a good practice in the develop community, whenever appropriate, implement the codes in English language.<br><br>
+### <br>Note: It was developed just to practice and study the PHP Language (throughout HCode's PHP course (the development was performed under HCode's instructions))<br><br>
 > ## Thankyou for visiting.
 
 <br><br>
@@ -44,6 +44,6 @@
 - Crie a base "db_ecommerce";
 - Importe na base "db_ecommerce" as tabelas do arquivo "MODEL_DB_db_ecommerce.sql";
 
-### <br>Observação: Esta aplicação foi desenvolvida apenas para praticar e estudar a Linguagem PHP. A escrita do código e todos os comentários estão em inglês apenas para praticar o idioma inglês e porque também é considerado uma boa prática na comunidade de desenvolvedores, sempre que apropriado, implementar os códigos em inglês. <br> <br>
+### <br>Observação: Esta aplicação foi desenvolvida apenas para praticar e estudar a Linguagem PHP ao longo do curso de PHP da HCode (a implmentação foi realizada sob intruções da HCode).<br><br>
 
 > ## Obrigado pela visita.
