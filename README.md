@@ -1,6 +1,12 @@
 # ecommerce_php
 
-## This application provides a virtual store page and also an admin page. You can see bellow, some instructios about how to use that.<br><br>
+## This application provides a virtual store page and also an admin page. You can see bellow, some instructios about how to use that.<br>
+### Features:
+- Manage Categories
+- Menage Products
+- Manage Sales
+- Virtual Store
+- Mailer Service Integration<br><br>
 
 # INSTRUCTIOS
 
