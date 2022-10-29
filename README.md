@@ -1,4 +1,4 @@
-# ecommerce_php
+# ecommerce_php7
 
 ## This application provides a virtual store page and also an admin page. You can see bellow, some instructios about how to use that.<br>
 ### Features:
