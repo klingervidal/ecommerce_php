@@ -44,6 +44,6 @@
 - Crie a base "db_ecommerce";
 - Importe na base "db_ecommerce" as tabelas do arquivo "MODEL_DB_db_ecommerce.sql";
 
-### <br>Observação: Esta aplicação foi desenvolvida apenas para praticar e estudar a Linguagem PHP ao longo do curso de PHP da HCode (a implmentação foi realizada sob intruções da HCode).<br><br>
+### <br>Observação: Esta aplicação foi desenvolvida apenas para praticar e estudar a Linguagem PHP ao longo do curso de PHP da HCode (a implementação foi realizada sob instruções da HCode).<br><br>
 
 > ## Obrigado pela visita.
